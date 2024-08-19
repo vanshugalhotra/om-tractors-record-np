@@ -27,7 +27,7 @@ const Navbar = () => {
       <div
         className={`heading uppercase lg:text-5xl text-3xl font-medium self-center ${poppins.className}`}
       >
-        Om Tractors
+        Om Tractors (No PartNumber)
       </div>
     </nav>
   );
